@@ -1,6 +1,6 @@
 /*
-*File Name: index.html v0.4.0
-*Update: 2020.04.17
+*File Name: index.html v0.5.0
+*Update: 2020.04.20
 *Author: developern
 */
 
@@ -42,9 +42,16 @@ ul li a {
    
 }
 .article-bg2{
-    height: 550px;
+    height: 650px;
     padding: 15px;
     background-color: rgb(14, 124, 0);
+    text-align: center;
+   
+}
+.article-bg3{
+    height: 450px;
+    padding: 15px;
+    background-color: rgb(121, 82, 0);
     text-align: center;
    
 }
