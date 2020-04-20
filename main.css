@@ -55,6 +55,13 @@ ul li a {
     text-align: center;
    
 }
+.article-bg4{
+    height: 350px;
+    padding: 15px;
+    background-color: rgb(181, 82, 0);
+    text-align: center;
+   
+}
 /*vox model test*/
 .box1 {
     display: inline-block;
