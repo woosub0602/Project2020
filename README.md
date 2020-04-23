@@ -1,7 +1,11 @@
 # Project2020 - 김우섭
+## 4월 23일 테이블 태그 연습
+> table tag 연습 <br>
 ## 04월 17일 멀티미디어 태그 연습
 > img tag 연습 <br>
-
+audio tag 연습 <br>
+video tag 연습 <br>
+유튜브 동영상 삽입 숙제
 ## 04월 10일 실습내용
 > css적용방식 <br>
 css초기화 <br> 
