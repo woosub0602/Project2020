@@ -11,7 +11,47 @@
     font-weight: bold;
     text-decoration: none;
 }
-
+/* header - full screen background */
+.full-bg{
+    background: url(./images/sky.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.header-title{
+    display: inline-block;
+    width: 50%;
+    height: 140px;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 25px;
+    background: rgba(11, 0, 73,.8);
+    color: #fff;
+    border: brown;
+    border-style: solid;
+}
+.header-sub-title{
+    margin: auto;
+    width: 100%;
+    font-size: 25px;
+    padding-top: 30px;
+    color: cyan;
+    text-align: center;
+}
+.ghost-button{
+    display: inline-block;
+    padding: 25px 100px;
+    margin: auto;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+    color: darkgoldenrod;
+    text-align: center;
+}
 /* main mune */
 ul{
     width: 100%;
