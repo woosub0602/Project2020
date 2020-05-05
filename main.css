@@ -1,6 +1,6 @@
 /*
-*File Name: index.html v0.6.0
-*Update: 2020.04.20
+*File Name: index.html v0.7.0
+*Update: 2020.05.05
 *Author: developern
 */
 
@@ -28,7 +28,8 @@ ul li {
 }
 ul li a {
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-family: 'Single Day', cursive;
+    font-size: 30px;
     font-weight: bold;
     text-decoration: none;
 }
@@ -148,11 +149,28 @@ table{
 td,
 th{
     border: 1px solid rgb(0,0,0);
-    padding: 5px 40px;
+    padding: 5px 50px;
 }
 td{
     text-align: center;
 }
 caption{
     caption-side: bottom;
+}
+/* CSS Grid연습 */
+.grid-container{
+    background-color: rgb(104, 104, 175);
+    display: grid;
+    grid-gap: 10px;
+    padding: 10px;
+}
+.item1{
+    grid-column: 1 / span 3;
+    grid-row: 1;
+}
+.grid-item{
+    background-color: rosybrown;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
 }
