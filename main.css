@@ -76,6 +76,26 @@ ul li a {
     text-decoration: none;
 }
 
+.onepage>ul{
+    position: relative;
+    display: none;
+}
+
+.onepage:hover>ul{
+    display: block;
+    width: 150px;
+    height: 250px;
+}
+
+.onepage ul li{
+    padding: 15px 0px;
+    margin-right: 15px;
+}
+
+.onepage{
+    text-align: center;
+}
+
 /* article background */
 .article-bg1{
     height: 300px;
