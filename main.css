@@ -60,6 +60,8 @@ ul{
     padding: 15px 10px 8px;
     background: rgb(49, 49, 49);
     list-style: none;
+    position: fixed;
+    top: 0;
 }
 
 ul li {
@@ -212,5 +214,11 @@ caption{
     background-color: rosybrown;
     font-size: 30px;
     padding: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: papayawhip;
+    font-size: medium;
     text-align: center;
 }
