@@ -1,4 +1,12 @@
 # Project2020 - 김우섭
+## 5월 21일 부트스트랩 연습
+>Alerts연습<br>
+button 연습<br>
+collapse-Accordion 연습<br>
+form 연습<br>
+modal 연습<br>
+progress 연습<br>
+svg 연습<br>
 ## 5월 13일 메뉴 적용
 >메뉴 상단바 고정<br>
 onepace생성<br>
