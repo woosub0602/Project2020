@@ -1,0 +1,39 @@
+<!--
+ * File name : file name
+ * Version: version
+ * Update: date
+-->
+<!DOCTYPE hteml>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>dom08</title>
+    <script>
+        window.onload = function (){
+            // 문서 객체를 선택
+            var clock = document.getElementById('clock');
+            // 1초마다 함수를 실행
+            setInterval(function() {
+                var now = new Date();
+                clock.innerHTML = now.toString();
+            }, 1000);
+
+            document.getElementById('button').onclick = function() {
+            this.textContent = this.textContent + '♥';
+        };        };
+        //버튼 크을릭
+        function buttonClick() {
+                alert('클릭 되었습니다.');
+        };
+
+        
+    </script>
+</head>
+<body>
+    <h1 id="clock"></h1>
+    <button onclick="buttonClick()">버튼 눌러어어</button>
+    <button id="button">버튼이지롱 - </button>
+</body>
+</html>

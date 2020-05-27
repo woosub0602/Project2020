@@ -1,4 +1,13 @@
 # Project2020 - 김우섭
+## 5월 27일 여러가지 연습
+>dom01 연습<br>
+dom02 연습<br>
+dom03 연습<br>
+dom04 연습<br>
+dom05 연습<br>
+dom06 연습<br>
+dom07 연습<br>
+dom08 연습<br>
 ## 5월 21일 부트스트랩 연습
 >Alerts연습<br>
 button 연습<br>

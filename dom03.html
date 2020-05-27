@@ -1,0 +1,30 @@
+<!--
+ * File name : file name
+ * Version: version
+ * Update: date
+-->
+<!DOCTYPE hteml>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>dom03</title>
+    <script>
+        window.onload = function (){
+            var headers = document.querySelectorAll('h1');
+            for (var i=0 ; i<headers.length ; i++){
+                var header = headers[i];
+                header.style.color = 'yellow';
+                header.style.background = 'green';
+                header.innerHTML = '엘리먼트 다중 선택'
+            }
+        };
+    </script>
+</head>
+<body>
+    <h1></h1>
+    <h1></h1>
+    <h1></h1>
+</body>
+</html>
