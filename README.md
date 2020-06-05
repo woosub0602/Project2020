@@ -1,4 +1,18 @@
 # Project2020 - 김우섭
+## 6월 6일 jquery연습
+>jquery01 연습
+jquery02 연습
+jquery03 연습
+jquery04 연습
+jquery05 연습
+jquery06 연습
+jquery07 연습
+jquery08 연습
+jquery09 연습
+jquery10 연습
+jquery11 연습
+jquery12 연습
+
 ## 5월 27일 여러가지 연습
 >dom01 연습<br>
 dom02 연습<br>
